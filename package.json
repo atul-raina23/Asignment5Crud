@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-crud-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD application using MongoDB and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose",
+    "crud"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.8"
+  }
+}
